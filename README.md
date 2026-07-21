@@ -17,5 +17,5 @@ Visite o site no ar: [https://arthurrisso19-ship-it.github.io/portfolio-react/]
 
 ## 🛠 Tecnologias Utilizadas
 
-![React](https://shields.io)
-![TailwindCSS](https://shields.io)
+- React
+- TailwindCss
