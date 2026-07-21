@@ -2,7 +2,8 @@
 
 Este é o repositório do meu portfólio pessoal. Um espaço desenvolvido para centralizar meus projetos, habilidades, experiências e formas de contato de maneira visual e responsivaa.
 
-![Preview do Portfólio](<img width="1420" height="487" alt="Captura de tela 2026-07-21 203137" src="https://github.com/user-attachments/assets/bd6cb65d-ab42-4e30-81b4-f39a4275fec8" />)
+<img width="1420" height="487" alt="Captura de tela 2026-07-21 203137" src="https://github.com/user-attachments/assets/8a62e7dc-a9ba-42d7-90f3-a632eae9611d" />
+
 
 
 ## 🔗 Link do Projeto
